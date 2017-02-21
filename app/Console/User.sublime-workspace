@@ -1,0 +1,829 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"navbar",
+				"navbar-spy"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"col-md-",
+				"col-md-4"
+			],
+			[
+				"dr",
+				"dropdown-menu"
+			],
+			[
+				"opa",
+				"opacity-1"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bold",
+				"bold"
+			],
+			[
+				"co",
+				"color-dark"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"h",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"navb",
+				"navbar-nav"
+			],
+			[
+				"article",
+				"article-mem"
+			],
+			[
+				"clo",
+				"color-high"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"hre",
+				"href"
+			],
+			[
+				"top",
+				"topic-2"
+			],
+			[
+				"topic",
+				"Topic-1"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"color",
+				"color-high"
+			],
+			[
+				"right",
+				"right-margin"
+			],
+			[
+				"User",
+				"Username"
+			],
+			[
+				"f",
+				"f50000"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ali",
+				"align-center"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"to",
+				"total_weight"
+			],
+			[
+				"total_",
+				"total_weight"
+			],
+			[
+				"total",
+				"total_score"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"url",
+				"urllib2"
+			],
+			[
+				"H",
+				"利用urllib2库的HTTPCookieProcessor对象来创建cookie处理器"
+			],
+			[
+				"Emp",
+				"empty\tfunc"
+			],
+			[
+				"pu",
+				"push\tfunc"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"user",
+				"usernameErr"
+			],
+			[
+				"p",
+				"passwordErr"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"table",
+				"table-caption"
+			],
+			[
+				"I-io",
+				"I-iostream\tinc"
+			],
+			[
+				"curl_",
+				"curl_exec"
+			],
+			[
+				"curl",
+				"curl_setopt"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"my",
+				"mysql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssC",
+				"Set Syntax: C++11"
+			],
+			[
+				"SSPh",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssp",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++11"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sss",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"SS",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Veronica/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/xampp/htdocs/larablog/.env",
+		"/C/xampp/htdocs/larablog/app/Http/Kernel.php",
+		"/C/xampp/htdocs/larablog/routes/channels.php",
+		"/C/xampp/htdocs/larablog/database/migrations/2017_02_15_020856_create_article_table.php",
+		"/C/xampp/htdocs/larablog/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/larablog/public/css/app.css",
+		"/C/xampp/htdocs/larablog/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/larablog/bootstrap/app.php",
+		"/C/xampp/htdocs/larablog/bootstrap/autoload.php",
+		"/C/xampp/htdocs/larablog/tests/Unit/ExampleTest.php",
+		"/C/xampp/htdocs/larablog/tests/CreatesApplication.php",
+		"/C/Users/Veronica/composer.json",
+		"/C/Users/Veronica/AppData/Roaming/Composer/composer.json",
+		"/C/xampp/htdocs/all others/1st-front-end/index.html",
+		"/C/xampp/htdocs/all others/1st-front-end/assets/js/jquery.scrollerBird.js",
+		"/C/xampp/htdocs/assets/css/bootstrap.min.css",
+		"/C/xampp/htdocs/assets/css/bootstrap.css",
+		"/C/xampp/htdocs/all others/1st-front-end/assets/css/style.css",
+		"/C/xampp/htdocs/account-mem.html",
+		"/C/Users/Veronica/Desktop/jiaoben419/index.html",
+		"/C/xampp/htdocs/index-mem",
+		"/C/Users/Veronica/Desktop/jiaoben419/bgstretcher.css",
+		"/C/Users/Veronica/Desktop/jiaoben419/main.js",
+		"/C/xampp/htdocs/assets/js/bgstretcher.js",
+		"/C/Users/Veronica/Desktop/jiaoben419/bgstretcher.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/index.html",
+		"/D/Tech/Source/Web/tpmo_482_strip/index.html",
+		"/D/Tech/Source/Web/tpmo_482_strip/css/templatemo-style.css",
+		"/D/Tech/Source/Web/npts_11_cvm/js/main.js",
+		"/D/Tech/Source/Web/npts_11_cvm/css/style.css",
+		"/C/Users/Veronica/Desktop/tpmo_491_flat/index.html",
+		"/C/xampp/htdocs/assets/js/jquery.min.js",
+		"/C/Users/Veronica/Desktop/tpmo_491_flat/js/tether.min.js",
+		"/C/Users/Veronica/Desktop/tpmo_491_flat/js/hero-slider-main.js",
+		"/C/xampp/htdocs/php/test.php",
+		"/C/xampp/htdocs/all others/1st-front-end/assets/js/aura.js",
+		"/C/xampp/htdocs/assets/js/bootstrap-hover-dropdown.min.js",
+		"/C/xampp/htdocs/assets/js/bootstrap.js",
+		"/C/xampp/htdocs/assets/js/bootstrap.min.js",
+		"/C/xampp/htdocs/assets/css/style.css",
+		"/C/xampp/htdocs/article-mem.html",
+		"/C/xampp/htdocs/assets/js/aura-article.js",
+		"/C/xampp/htdocs/assets/js/aura.js",
+		"/C/xampp/htdocs/assets/js/aura-publish.js",
+		"/C/xampp/htdocs/article-admin.html",
+		"/C/Users/Veronica/Documents/GitHub/Front-end/Mail/mail.php",
+		"/C/xampp/htdocs/article.html",
+		"/C/xampp/htdocs/blog.html",
+		"/C/xampp/htdocs/login-admin.html",
+		"/C/Users/Veronica/Documents/GitHub/Front-end/Mail/sendmail.php",
+		"/C/xampp/htdocs/login-mem.html",
+		"/C/xampp/htdocs/blog-mem.html",
+		"/C/xampp/htdocs/blog-admin.html",
+		"/C/xampp/htdocs/article-admin",
+		"/C/xampp/htdocs/article-member.html",
+		"/C/Users/Veronica/Desktop/jquery-css3-modal-window/jquery-css3-modal-window/css/style.css",
+		"/C/xampp/htdocs/assets/css/bootstrap-responsive.css",
+		"/C/xampp/htdocs/assets/css/extension.css",
+		"/C/xampp/htdocs/blog-all.html",
+		"/C/xampp/htdocs/Mail/test.php",
+		"/C/Users/Veronica/Desktop/jquery-css3-modal-window/jquery-css3-modal-window/index.html",
+		"/C/xampp/htdocs/assets/js/blur.js",
+		"/C/Users/Veronica/Desktop/jquery-css3-modal-window/index.html",
+		"/C/Users/Veronica/Desktop/jquery-css3-modal-window/css/style.css",
+		"/C/xampp/htdocs/signup.php",
+		"/D/University/Web/1/sae.php",
+		"/C/Users/Veronica/Desktop/lal.php",
+		"/C/xampp/htdocs/assets/css/docs.css",
+		"/D/Tech/Source/Web/sbtp_2_fb/slider/js/theme.js",
+		"/C/Users/Veronica/Desktop/jquery-css3-modal-window/js/index.js",
+		"/D/Tech/Source/Web/sbtp_2_fb/slider/index.html",
+		"/C/xampp/htdocs/login.php",
+		"/D/University/Web/1/wp-admin/includes/file.php",
+		"/D/Tech/Source/Web/sbtp_2_fb/slider/css/style.css",
+		"/C/Users/Veronica/Desktop/py/super.py",
+		"/C/Users/Veronica/Desktop/py/spider2.py",
+		"/D/Tech/Source/Web/sbtp_2_fb/slider/js/wow.min.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/Mail/test.php",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/css/prettyPhoto.css",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/css/typography.css",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/css/extension.css",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/css/style.css",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/aura.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/otherpages.html",
+		"/C/Users/Veronica/Desktop/py/spider.py",
+		"/D/Tech/Source/Web/sbtp_2_fb/slider/mail.php",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/Mail/sendmail.php",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/jquery.easing.1.3.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/bootstrap-dropdown.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/jquery.flexslider-min.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/jquery.backstretch.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/jquery.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/application.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/jquery.scrollerBird.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/script.js",
+		"/C/Users/Veronica/Desktop/mstp_80_aura/assets/js/README.md",
+		"/C/Users/Veronica/Desktop/wp-config.php",
+		"/C/Users/Veronica/Desktop/twentyeleven/style.css",
+		"/C/Users/Veronica/Desktop/yes it works。",
+		"/C/xampp/htdocs/html/public/hidden/sad/story/SadLoveStory.php",
+		"/C/Python27/Lib/mimetypes.py",
+		"/C/Users/Veronica/Desktop/py/get-pip.py",
+		"/C/xampp/htdocs/index1.html",
+		"/D/Tech/ProgrammingApe/C++/vector2.cpp",
+		"/C/Users/Veronica/.htaccess",
+		"/D/University/Web/1/wp-includes/functions.php",
+		"/D/University/Web/1/wp-config.php",
+		"/D/University/Web/1/wp-config-sample.php",
+		"/C/Users/Veronica/Desktop/摇摇棒配套资料/摇摇棒配套资料/程序/生日快乐zlx1314/Text1.c",
+		"/C/Users/Veronica/Desktop/摇摇棒配套资料/摇摇棒配套资料/程序/默认烧写的程序/STARTUP.obj",
+		"/C/xampp/htdocs/index.php",
+		"/D/University/Web/sae.php",
+		"/C/Users/Veronica/Desktop/摇摇棒配套资料/摇摇棒配套资料/程序/显示_谢谢你，陈永芳大哥，新年快乐/Text1.c",
+		"/C/xampp/htdocs/jjj2.php",
+		"/C/xampp/htdocs/ctf1.php",
+		"/C/xampp/htdocs/html/header.html",
+		"/C/xampp/htdocs/html/index.php",
+		"/C/xampp/htdocs/html/login.php",
+		"/C/xampp/htdocs/html/do/not/open/slider/index.php",
+		"/C/xampp/htdocs/html/otherInfo/family.html",
+		"/C/xampp/htdocs/ctf5.php",
+		"/C/xampp/htdocs/DVWA-1.9/config/config.inc.php",
+		"/C/Users/Veronica/Desktop/cry50_52F9142132607A8EC0D672A2AC86DE91/cry100/deploy.py",
+		"/C/Users/Veronica/Desktop/aaaaa.py",
+		"/C/Users/Veronica/Desktop/1.zip",
+		"/C/Users/Veronica/Desktop/flag.php",
+		"/C/xampp/htdocs/1.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"*/",
+			"col-md-10",
+			"@",
+			"font-size",
+			"background-color",
+			"nav-tabs",
+			"input",
+			"images",
+			"login",
+			"<li",
+			"promo-home",
+			"aura-co",
+			"#",
+			"scroller",
+			"<a",
+			"scrollme",
+			"relative",
+			"body",
+			".gif",
+			"aura-collapse-triggered",
+			"div",
+			"success",
+			"ajax",
+			"7",
+			"col-xs-12",
+			"9",
+			"<li>",
+			"text-shadow-off common-subheading color-dark icon-heading",
+			"<i",
+			"span6 add-top-half",
+			"pad-left-medium pad-top-half remove-pad-on-phone",
+			"border-off",
+			"text-shadow-off pad-right add-top small-para",
+			"navbar-fixed-top",
+			"nav-fixed-top",
+			"nav-fixed-",
+			"nav-fixed",
+			"2",
+			"6",
+			"3",
+			"p",
+			";\n",
+			"nav-pill",
+			"nav-tap",
+			"nav-tab",
+			"p",
+			"2",
+			"main-heading",
+			"nav",
+			"9",
+			".text-",
+			"text-",
+			"nav-",
+			"scrollme",
+			"main-link",
+			"6",
+			";\n",
+			"img",
+			"image",
+			"border-bottom",
+			"blog",
+			"Blog",
+			"blog",
+			"article-mem.html",
+			"html",
+			"Read Full",
+			"article.html",
+			"blog.html",
+			"view",
+			"blog",
+			"though",
+			"article.html",
+			"resources",
+			"tutorials",
+			"web design",
+			"Read Full<",
+			"account",
+			"Title of the article  ",
+			"align-center",
+			"<p>",
+			"<br>",
+			".png",
+			"big-one add-left-half",
+			"icon-tags",
+			"Topic",
+			"Topic 1",
+			"resources",
+			"tutorials",
+			"web design",
+			"span6",
+			"span",
+			"left-",
+			"hidden-phone",
+			"hidden",
+			"span6",
+			"left-p",
+			"view",
+			"read",
+			"8",
+			"read",
+			"main",
+			"span12",
+			"contact",
+			"drop",
+			"color",
+			"md-show",
+			"white",
+			"#999",
+			"color",
+			"center",
+			"contact",
+			"section",
+			"width",
+			"section",
+			"th",
+			"center",
+			"account name",
+			"color-",
+			"font-",
+			"font",
+			"cite",
+			"btn1",
+			"background",
+			"<html",
+			"-->",
+			"md",
+			"blur",
+			"\"a\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@",
+			"!",
+			"_",
+			"-",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"z",
+			"y",
+			"x",
+			"w",
+			"v",
+			"u",
+			"t",
+			"s",
+			"r",
+			"q",
+			"p",
+			"o",
+			"n",
+			"m",
+			"l",
+			"k",
+			"j",
+			"i",
+			"h",
+			"g",
+			"f",
+			"e",
+			"d",
+			"c",
+			"b",
+			"a",
+			"js",
+			"css",
+			"html",
+			"script"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "User.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Veronica\\Documents\\My Web Sites\\herstorybegins\\index.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

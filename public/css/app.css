@@ -1,0 +1,11 @@
+@import url(bootstrap.min.css);
+@import url(style.css);
+body {background-image:url(../images/trianglify.svg); background-repeat:no-repeat; 
+            background-attachment:fixed;
+            height: 100%;
+            width: 100%;
+            -moz-background-size:cover;
+            -webkit-background-size:cover;
+            -o-background-size:cover;
+            background-size:cover;
+        }
